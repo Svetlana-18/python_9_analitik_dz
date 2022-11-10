@@ -69,7 +69,7 @@ def cancel(update, _):
 
 
 if __name__ == '__main__':
-    updater = Updater("5605526481:AAG9tx5MzA09nYUkPHA8Z_zkPtrpzmdg42M")
+    updater = Updater("Token")
     dispatcher = updater.dispatcher
 
     conv_handler = ConversationHandler(

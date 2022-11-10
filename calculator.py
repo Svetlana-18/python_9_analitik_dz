@@ -4,7 +4,7 @@
 import telebot
 
 
-bot = telebot.TeleBot("5605526481:AAG9tx5MzA09nYUkPHA8Z_zkPtrpzmdg42M")
+bot = telebot.TeleBot("Token")
 value = ''
 old_value = ''
 item = {}
